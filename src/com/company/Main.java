@@ -5,7 +5,7 @@ import com.company.dir.SomeClass;
 public class Main {
 
     public static void main(String[] args) {
-        SomeClass smClass = new SomeClass();
+        SomeClass2 smClass = new SomeClass2();
         System.out.println("Hello, world!");
     }
 }
