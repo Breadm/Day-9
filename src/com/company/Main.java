@@ -7,6 +7,6 @@ public class Main {
     public static void main(String[] args) {
         SomeClass2 smClass = new SomeClass2();
         System.out.println("Hello, world!");
-        System.out.println("Other text");
+        System.out.println("Some text");
     }
 }
